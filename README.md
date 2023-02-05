@@ -15,24 +15,6 @@
 ### About Me :
 - :wave: Hi, I am Ereshia Gabier.
 - :seedling: I am interested in Data Science and Biomedical Research.
-
-How to reach me:
- 
- <div id="badges" align="left" >
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         <h4 align="center">
-            ereshiagabier@gmail.com
-         </h4>
-  </div>
-  
-
-  <div id="badges" align="left" >
-    <a href="https://www.linkedin.com/in/ereshia-gabier">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-     </a>
-  </div>
-  
-  
 ---
 
 ### Languages and Tools :
