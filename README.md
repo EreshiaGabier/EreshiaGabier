@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="900" height="350"/>
 </div>
 
-<div id="counter" align="left">
+<!--<div id="counter" align="left">
   <img src="https://komarev.com/ghpvc/?username=EreshiaGabier&style=rectangular&color=blue" alt=""/>
-</div>
+</div><!--
 
 ---
 
